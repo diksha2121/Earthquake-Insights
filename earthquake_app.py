@@ -74,7 +74,7 @@ for year in range(start_year, end_year + 1):
             })
 
 df = pd.DataFrame(all_records)
-df.shape()
+df.shape
 
 df.sample()
 
